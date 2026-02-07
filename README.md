@@ -31,16 +31,32 @@ Perfect for **college practicals, viva, and revision** 💡
 ## 📂 Folder Structure
 
 ```text
-OOPS-lab-file-bca-sem-3/
+opps lab/
 │
-├── opps lab/
-│   ├── Classes & Objects
-│   ├── Constructors & Destructors
-│   ├── Inheritance Programs
-│   ├── Function Overloading
-│   ├── Operator Overloading
-│   ├── Polymorphism
-│   ├── Virtual Functions
-│   └── Other OOPS Experiments
+├── problem_1.cpp
+├── problem_2.cpp
+├── problem_3.cpp
+├── problem_4.cpp
+├── problem_5.cpp
+├── problem_6.cpp
+├── problem_7.cpp
+├── problem_8.cpp
+├── problem_9.cpp
+├── problem_10.cpp
+├── problem_11.cpp
+├── problem_12.cpp
+├── problem_13.cpp
+├── problem_14.cpp
+├── problem_15.cpp
+├── problem_16.cpp
+├── problem_17.cpp
+├── problem_18.cpp
+├── problem_19.cpp
+├── problem_20.cpp
+├── problem_21.cpp
+├── problem_22.cpp
+├── problem_23.cpp
+├── problem_24.cpp
+└── problem25.cpp
 │
 └── README.md
