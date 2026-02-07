@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Ultra Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+III;C%2B%2B+OOPS+PRACTICAL+PROGRAMS;SHEAT+GROUP+OF+INSTITUTIONS" />
+<!-- HERO : 3D Landing Feel -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&lines=OOPS+LAB+PORTAL;BCA+SEMESTER+III;C%2B%2B+OBJECT+ORIENTED+PROGRAMMING" />
 
-<!-- Neon Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7f00ff&height=140&section=header"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00e5ff,100:9b00ff&height=2"/>
 
 </div>
 
@@ -15,100 +16,68 @@
 ### 🏫 **Saraswati Higher Education & Technical**  
 ### **(SHEAT) Group of Institutions**
 
-<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Paradigm-OOPS-7f00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Course-BCA-00f5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semester-III-ffb703?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Complete-00c853?style=for-the-badge"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-<!-- C++ / Coding Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R0Y2k5NnI5ZzFhN2J5aDNpYjZxOGN2ZGRqY3N2c3p4cWZtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="560"/>
+<!-- 3D Space / Tech Background -->
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%"/>
 
 </div>
 
 ---
 
-## ✨ Repository Overview
+## 🧬 ENTER THE OOPS LAB ENVIRONMENT
 
 <div align="center">
 
-🎓 **Official OOPS Lab Repository – BCA Semester III**  
-🏫 Prepared for **SHEAT Group of Institutions**  
-💻 Language: **C++ (Pure Object Oriented Programming)**  
+🧠 *This is not just a repository.*  
+💻 *This is a virtual OOPS Lab workspace.*
 
 </div>
 
-This repository contains **complete, structured, and practical-ready OOPS lab programs**, designed to:
+You are entering a **C++ Object Oriented Programming Lab Portal**  
+designed for **BCA Semester–III students** of  
 
-✔ Strengthen **core OOP concepts**  
-✔ Help in **practical exams & viva**  
-✔ Maintain **clean lab-submission standards**  
-✔ Provide **easy revision before exams**
+🏫 **SHEAT Group of Institutions**
+
+This space is built to feel like:
+- a **digital lab**
+- a **3D coding room**
+- a **hands-on learning environment**
 
 ---
 
-## 🏫 About SHEAT Group of Institutions
+## 🧠 CORE SYSTEM MODULES (OOPS ENGINE)
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-
-</div>
-
-**Saraswati Higher Education & Technical (SHEAT) Group of Institutions** is known for:
-
-🚀 Academic excellence  
-🧪 Practical-oriented education  
-📘 Strong technical foundation  
-👨‍🏫 Experienced faculty & modern labs  
-
-This repository reflects the **hands-on learning culture** of SHEAT.
-
----
-
-## 🧠 OOPS Concepts Implemented (Animated)
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=500&color=00FFB3&center=true&vCenter=true&width=900&lines=Classes+and+Objects;Constructors+and+Destructors;Inheritance;Function+Overloading;Operator+Overloading;Polymorphism;Virtual+Functions;Friend+Functions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=600&color=00FFAA&center=true&vCenter=true&width=900&lines=Classes+%26+Objects;Constructors+%26+Destructors;Inheritance+Hierarchy;Compile-Time+Polymorphism;Run-Time+Polymorphism;Operator+Overloading;Virtual+Functions;Friend+Functions" />
 
 </div>
 
 ---
 
-## 📁 Lab File Structure
+## 🧩 LAB PROGRAM GRID (3D FILE SYSTEM VIEW)
 
 ```text
-opps lab/
-│
-├── problem_1.cpp
-├── problem_2.cpp
-├── problem_3.cpp
-├── problem_4.cpp
-├── problem_5.cpp
-├── problem_6.cpp
-├── problem_7.cpp
-├── problem_8.cpp
-├── problem_9.cpp
-├── problem_10.cpp
-├── problem_11.cpp
-├── problem_12.cpp
-├── problem_13.cpp
-├── problem_14.cpp
-├── problem_15.cpp
-├── problem_16.cpp
-├── problem_17.cpp
-├── problem_18.cpp
-├── problem_19.cpp
-├── problem_20.cpp
-├── problem_21.cpp
-├── problem_22.cpp
-├── problem_23.cpp
-├── problem_24.cpp
-└── problem25.cpp
+┌───────────────────────────────────────┐
+│          OOPS LAB PROGRAMS             │
+├───────────────────────────────────────┤
+│  problem_1.cpp     problem_14.cpp      │
+│  problem_2.cpp     problem_15.cpp      │
+│  problem_3.cpp     problem_16.cpp      │
+│  problem_4.cpp     problem_17.cpp      │
+│  problem_5.cpp     problem_18.cpp      │
+│  problem_6.cpp     problem_19.cpp      │
+│  problem_7.cpp     problem_20.cpp      │
+│  problem_8.cpp     problem_21.cpp      │
+│  problem_9.cpp     problem_22.cpp      │
+│  problem_10.cpp    problem_23.cpp      │
+│  problem_11.cpp    problem_24.cpp      │
+│  problem_12.cpp    problem25.cpp       │
+│  problem_13.cpp                         │
+└───────────────────────────────────────┘
+
