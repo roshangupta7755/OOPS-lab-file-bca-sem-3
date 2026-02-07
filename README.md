@@ -1,52 +1,53 @@
 <div align="center">
 
-# 🚀 OBJECT ORIENTED PROGRAMMING (OOPS) LAB  
-## BCA Semester – 3  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=800&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+3;C%2B%2B+OOPS+PRACTICAL+PROGRAMS" />
+
+<br/>
 
 ### 🏫 Saraswati Higher Education & Technical  
 ### (SHEAT) Group of Institutions  
 
-✨ *Complete OOPS Lab Programs in C++ with Clean Structure* ✨  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d2671,100:c33764&height=3&section=header"/>
 
-![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge)
-![BCA](https://img.shields.io/badge/Course-BCA-green?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-III-orange?style=for-the-badge)
-![College](https://img.shields.io/badge/Institute-SHEAT-red?style=for-the-badge)
+<br/>
+
+<img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Course-BCA-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semester-III-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Institute-SHEAT-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📌 About This Repository
+## ✨ About This Repository
 
-This repository contains **Object Oriented Programming (OOPS) Lab programs**  
-prepared for **BCA Semester 3** students of  
+🎓 This repository contains **Object Oriented Programming (OOPS) Lab Programs**  
+for **BCA Semester–3**, prepared specially for students of  
 
-🎓 **Saraswati Higher Education & Technical (SHEAT) Group of Institutions**
+🏫 **Saraswati Higher Education & Technical (SHEAT) Group of Institutions**
 
-All programs are written in **C++** and strictly follow the **college lab syllabus**.
-
-✔ Simple  
-✔ Exam-oriented  
-✔ Practical-ready  
-✔ Beginner-friendly  
+💡 All programs are:
+- Easy to understand  
+- Exam & viva oriented  
+- Properly structured for lab submission  
 
 ---
 
 ## 🏫 About SHEAT Group of Institutions
 
-**Saraswati Higher Education & Technical (SHEAT) Group of Institutions** is a reputed educational institution known for:
+**SHEAT Group of Institutions** focuses on:
 
-- Quality technical education  
-- Strong academic foundation  
-- Industry-oriented learning  
-- Skilled faculty and modern labs  
+🚀 Quality technical education  
+📘 Strong academic foundation  
+🧪 Practical-based learning  
+👨‍🏫 Skilled faculty & modern labs  
 
-This lab repository is created to support **hands-on learning** and **practical excellence** for SHEAT students.
+This repository supports **hands-on OOPS learning** using C++.
 
 ---
 
-## 📁 File Structure
+## 📁 Animated File Structure
 
 ```text
 opps lab/
