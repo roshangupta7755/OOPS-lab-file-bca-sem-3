@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=800&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+3;C%2B%2B+OOPS+PRACTICAL+PROGRAMS" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+III;C%2B%2B+OOPS+PRACTICAL+PROGRAMS;SHEAT+GROUP+OF+INSTITUTIONS" />
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00cc&height=120&section=header"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🏫 Saraswati Higher Education & Technical  
 ### (SHEAT) Group of Institutions  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d2671,100:c33764&height=3&section=header"/>
-
-<br/>
-
+<img src="https://img.shields.io/badge/Institute-SHEAT-ff00cc?style=for-the-badge&logo=google-scholar"/>
+<img src="https://img.shields.io/badge/Course-BCA-00f7ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semester-III-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Course-BCA-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semester-III-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Institute-SHEAT-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2k5bG1hOXJ1dDVrb3V4d2p6ZzV5cTB1M2E3ZzRhdnNnOWJ3MWppYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 
 </div>
 
@@ -22,32 +36,42 @@
 
 ## ✨ About This Repository
 
-🎓 This repository contains **Object Oriented Programming (OOPS) Lab Programs**  
-for **BCA Semester–3**, prepared specially for students of  
+<div align="center">
 
+🔹 **Complete OOPS Lab Programs in C++**  
+🔹 Designed for **BCA Semester–3**  
+🔹 Specially prepared for  
 🏫 **Saraswati Higher Education & Technical (SHEAT) Group of Institutions**
 
-💡 All programs are:
-- Easy to understand  
-- Exam & viva oriented  
-- Properly structured for lab submission  
+</div>
+
+💡 This repository helps students:
+- Understand **Object Oriented Programming**
+- Prepare for **practical exams & viva**
+- Submit **clean, structured lab work**
 
 ---
 
 ## 🏫 About SHEAT Group of Institutions
 
-**SHEAT Group of Institutions** focuses on:
+<div align="center">
 
-🚀 Quality technical education  
-📘 Strong academic foundation  
-🧪 Practical-based learning  
-👨‍🏫 Skilled faculty & modern labs  
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
-This repository supports **hands-on OOPS learning** using C++.
+</div>
+
+**SHEAT Group of Institutions** is known for:
+
+🚀 Quality Technical Education  
+📘 Strong Academic Foundation  
+🧪 Practical-Based Learning  
+👨‍🏫 Skilled Faculty & Modern Labs  
+
+This repository supports **hands-on C++ OOPS learning** for SHEAT students.
 
 ---
 
-## 📁 Animated File Structure
+## 📁 File Structure (Animated View)
 
 ```text
 opps lab/
