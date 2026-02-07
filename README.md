@@ -1,14 +1,17 @@
 <div align="center">
 
-# 🚀 OOPS LAB FILE  
-## BCA Semester–3 | C++ Object Oriented Programming  
+# 🚀 OBJECT ORIENTED PROGRAMMING (OOPS) LAB  
+## BCA Semester – 3  
 
-✨ *Well-structured, beginner-friendly OOPS lab programs in C++* ✨  
+### 🏫 Saraswati Higher Education & Technical  
+### (SHEAT) Group of Institutions  
+
+✨ *Complete OOPS Lab Programs in C++ with Clean Structure* ✨  
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge)
 ![BCA](https://img.shields.io/badge/Course-BCA-green?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-3-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-III-orange?style=for-the-badge)
+![College](https://img.shields.io/badge/Institute-SHEAT-red?style=for-the-badge)
 
 </div>
 
@@ -16,19 +19,34 @@
 
 ## 📌 About This Repository
 
-This repository contains **Object Oriented Programming (OOPS) Lab programs** for  
-🎓 **BCA Semester 3**, written in **C++**.
+This repository contains **Object Oriented Programming (OOPS) Lab programs**  
+prepared for **BCA Semester 3** students of  
 
-All programs are designed to:
-- Be **simple**
-- Be **exam-oriented**
-- Clearly explain **core OOP concepts**
+🎓 **Saraswati Higher Education & Technical (SHEAT) Group of Institutions**
 
-Perfect for **college practicals, viva, and revision** 💡
+All programs are written in **C++** and strictly follow the **college lab syllabus**.
+
+✔ Simple  
+✔ Exam-oriented  
+✔ Practical-ready  
+✔ Beginner-friendly  
 
 ---
 
-## 📂 Folder Structure
+## 🏫 About SHEAT Group of Institutions
+
+**Saraswati Higher Education & Technical (SHEAT) Group of Institutions** is a reputed educational institution known for:
+
+- Quality technical education  
+- Strong academic foundation  
+- Industry-oriented learning  
+- Skilled faculty and modern labs  
+
+This lab repository is created to support **hands-on learning** and **practical excellence** for SHEAT students.
+
+---
+
+## 📁 File Structure
 
 ```text
 opps lab/
@@ -58,5 +76,3 @@ opps lab/
 ├── problem_23.cpp
 ├── problem_24.cpp
 └── problem25.cpp
-│
-└── README.md
