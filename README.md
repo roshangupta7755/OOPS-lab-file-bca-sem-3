@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+III;C%2B%2B+OOPS+PRACTICAL+PROGRAMS;SHEAT+GROUP+OF+INSTITUTIONS" />
+<!-- Ultra Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+III;C%2B%2B+OOPS+PRACTICAL+PROGRAMS;SHEAT+GROUP+OF+INSTITUTIONS" />
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:ff00cc&height=120&section=header"/>
+<!-- Neon Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7f00ff&height=140&section=header"/>
 
 </div>
 
@@ -12,13 +12,14 @@
 
 <div align="center">
 
-### 🏫 Saraswati Higher Education & Technical  
-### (SHEAT) Group of Institutions  
+### 🏫 **Saraswati Higher Education & Technical**  
+### **(SHEAT) Group of Institutions**
 
 <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Paradigm-OOPS-ff00cc?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Course-BCA-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semester-III-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Paradigm-OOPS-7f00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Course-BCA-00f5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semester-III-ffb703?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Complete-00c853?style=for-the-badge"/>
 
 </div>
 
@@ -26,39 +27,62 @@
 
 <div align="center">
 
-<!-- C++ Programming Animation -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="520"/>
+<!-- C++ / Coding Animation -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R0Y2k5NnI5ZzFhN2J5aDNpYjZxOGN2ZGRqY3N2c3p4cWZtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="560"/>
 
 </div>
 
 ---
 
-## ✨ About This Repository
+## ✨ Repository Overview
 
 <div align="center">
 
-🔹 **Complete OOPS Lab Programs in C++**  
-🔹 Designed strictly for **BCA Semester–3**  
-🔹 Prepared for  
-🏫 **Saraswati Higher Education & Technical (SHEAT) Group of Institutions**
+🎓 **Official OOPS Lab Repository – BCA Semester III**  
+🏫 Prepared for **SHEAT Group of Institutions**  
+💻 Language: **C++ (Pure Object Oriented Programming)**  
 
 </div>
 
-This repository focuses on **pure Object Oriented Programming concepts** using **C++**, aligned with college practical requirements.
+This repository contains **complete, structured, and practical-ready OOPS lab programs**, designed to:
+
+✔ Strengthen **core OOP concepts**  
+✔ Help in **practical exams & viva**  
+✔ Maintain **clean lab-submission standards**  
+✔ Provide **easy revision before exams**
 
 ---
 
-## 🧠 OOPS Concepts Implemented
+## 🏫 About SHEAT Group of Institutions
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=600&color=00FFAB&center=true&vCenter=true&width=800&lines=Classes+%26+Objects;Constructors+%26+Destructors;Inheritance;Polymorphism;Function+Overloading;Operator+Overloading;Virtual+Functions;Friend+Functions" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+
+</div>
+
+**Saraswati Higher Education & Technical (SHEAT) Group of Institutions** is known for:
+
+🚀 Academic excellence  
+🧪 Practical-oriented education  
+📘 Strong technical foundation  
+👨‍🏫 Experienced faculty & modern labs  
+
+This repository reflects the **hands-on learning culture** of SHEAT.
+
+---
+
+## 🧠 OOPS Concepts Implemented (Animated)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=500&color=00FFB3&center=true&vCenter=true&width=900&lines=Classes+and+Objects;Constructors+and+Destructors;Inheritance;Function+Overloading;Operator+Overloading;Polymorphism;Virtual+Functions;Friend+Functions" />
 
 </div>
 
 ---
 
-## 📁 File Structure
+## 📁 Lab File Structure
 
 ```text
 opps lab/
