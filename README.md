@@ -75,7 +75,7 @@ This repository reflects the **hands-on learning culture** of SHEAT.
 ## 🧠 OOPS Concepts Implemented (Animated)
 
 <div align="center">
-
+     
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1800&pause=500&color=00FFB3&center=true&vCenter=true&width=900&lines=Classes+and+Objects;Constructors+and+Destructors;Inheritance;Function+Overloading;Operator+Overloading;Polymorphism;Virtual+Functions;Friend+Functions" />
 
 </div>
