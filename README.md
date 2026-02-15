@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <!-- Ultra Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=OBJECT+ORIENTED+PROGRAMMING+LAB;BCA+SEMESTER+III;C%2B%2B+OOPS+PRACTICAL+PROGRAMS;SHEAT+GROUP+OF+INSTITUTIONS" />
