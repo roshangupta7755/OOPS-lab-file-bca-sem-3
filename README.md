@@ -30,7 +30,7 @@
 <!-- C++ / Coding Animation -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R0Y2k5NnI5ZzFhN2J5aDNpYjZxOGN2ZGRqY3N2c3p4cWZtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="560"/>
 
-</div>
+</div>   
 
 ---
 
