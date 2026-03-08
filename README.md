@@ -40,7 +40,7 @@
 
 🎓 **Official OOPS Lab Repository – BCA Semester III**  
 🏫 Prepared for **SHEAT Group of Institutions**  
-💻 Language: **C++ (Pure Object Oriented Programming)**  
+💻 Language: **C++ (Pure Object Oriented Programming)**     
 
 </div>
 
