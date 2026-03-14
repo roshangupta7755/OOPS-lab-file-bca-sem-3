@@ -42,7 +42,7 @@
 🏫 Prepared for **SHEAT Group of Institutions**  
 💻 Language: **C++ (Pure Object Oriented Programming)**     
 
-</div>
+</div>.  
 
 This repository contains **complete, structured, and practical-ready OOPS lab programs**, designed to:
 
